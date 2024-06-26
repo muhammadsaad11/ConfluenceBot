@@ -5,4 +5,4 @@ __pycache__/
 /data/*
 !/data/.gitkeep
 myenv
-.streamlit\secrets.toml
+.streamlit/secrets.toml
